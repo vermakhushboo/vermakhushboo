@@ -8,7 +8,7 @@
 I develop software, build technical communities, create content and love meeting new people!
 
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/vermakhushboo/github-readme-stats)
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
 
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
