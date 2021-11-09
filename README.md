@@ -1,4 +1,4 @@
-## Hey! I'm Khushboo Verma. 👋
+## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/vermakhushboo)
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/verma-khushboo/)
