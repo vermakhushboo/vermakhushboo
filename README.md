@@ -11,7 +11,7 @@ I develop software, build technical communities, create content and love meeting
 
 
 [![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact)](https://github.com/vermakhushboo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
 
 
 
