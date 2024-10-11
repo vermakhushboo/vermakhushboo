@@ -4,7 +4,7 @@
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/verma-khushboo/)
 [![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/khushbooverma_)
   
-I develop software, build technical communities, create content and love meeting new people!
+I am a software engineer @appwrite and I develop software, build technical communities, create content and love meeting new people!
 
 ![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
 
