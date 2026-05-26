@@ -6,8 +6,6 @@
   
 I am a software engineer Cloudflare and I develop software, build technical communities, create content and love meeting new people!
 
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
-
 
 
 
